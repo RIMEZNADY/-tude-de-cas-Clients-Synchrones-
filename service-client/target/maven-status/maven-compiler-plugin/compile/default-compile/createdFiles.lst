@@ -1,0 +1,8 @@
+com\example\client\controller\ClientController.class
+com\example\client\config\WebClientConfig.class
+com\example\client\model\Car.class
+com\example\client\config\RestTemplateConfig.class
+com\example\client\service\CarClientRestTemplate.class
+com\example\client\service\CarClientWebClient.class
+com\example\client\service\CarClientFeign.class
+com\example\client\ServiceClientApplication.class
